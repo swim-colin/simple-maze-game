@@ -6,7 +6,7 @@
     "name": "Blue_lock",
     "path": "sprites/Blue_lock/Blue_lock.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
