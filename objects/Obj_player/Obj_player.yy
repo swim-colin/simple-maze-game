@@ -40,7 +40,6 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_green_key","path":"objects/obj_green_key/obj_green_key.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_purple_key","path":"objects/obj_purple_key/obj_purple_key.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_purple_lock","path":"objects/obj_purple_lock/obj_purple_lock.yy",},},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bomerange_fish","path":"objects/obj_bomerange_fish/obj_bomerange_fish.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
